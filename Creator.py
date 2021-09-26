@@ -1,4 +1,3 @@
-from colorama import *
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException

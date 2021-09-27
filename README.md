@@ -1,1 +1,1 @@
-If You Get Ratelimited Clear Cookies And Change IP.
+If You Get Ratelimited Change IP.
